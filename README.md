@@ -5,8 +5,6 @@
 </head>
 <body>
 
-<!-- Markdown content goes here -->
-
 <h3><strong>Hello there, I'm Gabriel Carballo</strong> 👋</h3>
 <p>
   <a href="https://www.linkedin.com/in/gabrielfpcarballo/">
@@ -15,8 +13,10 @@
   <a href="https://instagram.com/gb.carballo">
     <img src="https://img.shields.io/badge/-gabrielcarballo-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram: gabrielcarballo">
   </a>
+  <!-- <a href="https://gabrielcarballo.vercel.app">
+    <img src="https://img.shields.io/website?color=28D56E&style=flat&up_message=MyFolio&url=https://gabrielcarballo.vercel.app" alt="gabrielcarballoFolio"> -->
 </p>
-<!-- [![Website: gabrielcarballo.vercel.app](https://img.shields.io/website?color=28D56E&style=flat&up_message=MyFolio&url=https://gabrielcarballo.vercel.app)](https://gabrielcarballo.vercel.app) -->
+
 <ul>
   <li>💼 Former lawyer, I've had a consulting company called Eu!Sóquemelhor and a tax recovery startup named alium.</li>
   <li>🚀 Transitioning to technology to change lives after learning about the <a href="https://alphafold.ebi.ac.uk/">AlphaFold</a> project.</li>
@@ -56,10 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <!-- <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> -->
-
 </p>
 
 </body>
