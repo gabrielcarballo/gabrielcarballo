@@ -23,13 +23,13 @@
   <li>💻 Fullstack developer | Games and D&D enthusiast | Love diving deep into complex problems until they're solved.</li>
 </ul>
 <p>
-  Fun fact: 
+  <h5>Fun fact</h5> 
   <ul>
     <li>I have dual nationality and have decided to live in at least 5 different countries in 10 years. 🇧🇷🇪🇸 (2/5)⏳<br></li>
   </ul>
   
 </p>
-<h3>Currently working on:</h3>
+<h3>Currently working on</h3>
 <ul>
   <li>🌱 Python and webscraping projects</li>
   <li>🌱 Learning OpenGL for tabletop game development</li>
@@ -56,9 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="docker" width="40" height="40"/>
+  <!-- <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> -->
 
 </p>
 
