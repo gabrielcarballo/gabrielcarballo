@@ -23,7 +23,7 @@
   <li>💻 Fullstack developer | Games and D&D enthusiast | Love diving deep into complex problems until they're solved.</li>
 </ul>
 <p>
-  <h5>Fun fact</h5> 
+  <h4>Fun fact</h4> 
   <ul>
     <li>I have dual nationality and have decided to live in at least 5 different countries in 10 years. 🇧🇷🇪🇸 (2/5)⏳<br></li>
   </ul>
