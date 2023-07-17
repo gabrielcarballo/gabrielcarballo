@@ -13,6 +13,11 @@
   <a href="https://instagram.com/gb.carballo">
     <img src="https://img.shields.io/badge/-gabrielcarballo-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram: gabrielcarballo">
   </a>
+  <a href="mailto:gabrielfpcarballo@gmail.com">
+    <img src="https://img.shields.io/badge/gabrielcarballo-D14836?style=flat&logo=gmail&logoColor=white" alt="Email: gabrielfpcarballo@gmail.com">
+  </a>
+
+
   <!-- <a href="https://gabrielcarballo.vercel.app">
     <img src="https://img.shields.io/website?color=28D56E&style=flat&up_message=MyFolio&url=https://gabrielcarballo.vercel.app" alt="gabrielcarballoFolio"> -->
 </p>
