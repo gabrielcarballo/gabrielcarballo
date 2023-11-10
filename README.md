@@ -30,7 +30,8 @@
 <p>
   <h4>Fun fact</h4> 
   <ul>
-    <li>I have dual nationality and have decided to live in at least 5 different countries in 10 years. 🇧🇷 🇪🇸 (2/5)⏳<br></li>
+    <li>I have dual nationality and have decided to live in at least 5 different countries in 10 years. <img width="16" height="16" src="https://img.icons8.com/emoji/48/spain-emoji.png" alt="spain-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/>
+ (2/5)⏳<br></li>
   </ul>
   
 </p>
