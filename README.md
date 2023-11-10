@@ -30,7 +30,7 @@
 <p>
   <h4>Fun fact</h4> 
   <ul>
-    <li>I have dual nationality and have decided to live in at least 5 different countries in 10 years. 🇧🇷🇪🇸 (2/5)⏳<br></li>
+    <li>I have dual nationality and have decided to live in at least 5 different countries in 10 years. 🇧🇷 🇪🇸 (2/5)⏳<br></li>
   </ul>
   
 </p>
