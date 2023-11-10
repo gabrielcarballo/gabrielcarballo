@@ -37,7 +37,7 @@
 </p>
 <h3>Currently working on</h3>
 <ul>
-  <li>🌱 Developing a personal IoT project for smart asthma inhalators called 4Breathe/li>
+  <li>🌱 Developing a personal IoT project for smart asthma inhalators called 4Breathe</li>
   <li>🌱 Learning React Native</li>
   <li>🌱 Improving my Spanish</li>
 </ul>
