@@ -37,8 +37,9 @@
 </p>
 <h3>Currently working on</h3>
 <ul>
-  <li>🌱 Python and webscraping projects</li>
-  <li>🌱 Learning OpenGL for tabletop game development</li>
+  <li>🌱 Developing a personal IoT project for smart asthma inhalators called 4Breathe/li>
+  <li>🌱 Learning React Native</li>
+  <li>🌱 Improving my Spanish</li>
 </ul>
 <h2>My Tech Stacks</h2>
 <p>
