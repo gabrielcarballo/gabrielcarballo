@@ -38,7 +38,7 @@
 <h3>Currently working on</h3>
 <ul>
   <li>🌱 Developing a personal IoT project for smart asthma inhalators called 4Breathe</li>
-  <li>🌱 Learning React Native</li>
+  <li>🌱 Developing and spearheading the implementation of my funded idea, Alice, at Skill Labs.</li>
   <li>🌱 Improving my Spanish</li>
 </ul>
 <h2>My Tech Stacks</h2>
