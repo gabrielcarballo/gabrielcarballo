@@ -23,14 +23,14 @@
 </p>
 
 <ul>
-  <li>💼 Former lawyer, I've had a consulting company called Eu!Sóquemelhor and a tax recovery startup named alium.</li>
+  <li>💼 Former lawyer, I founded a consulting company called Eu!Sóquemelhor and a tax recovery startup named Alium.</li>
   <li>🚀 Transitioning to technology to change lives after learning about the <a href="https://alphafold.ebi.ac.uk/">AlphaFold</a> project.</li>
-  <li>💻 Fullstack developer | Games and D&D enthusiast | Love diving deep into complex problems until they're solved.</li>
+  <li>💻 Fullstack developer | Games and D&D enthusiast | Passionate about delving into complex problems until they're solved.</li>
 </ul>
 <p>
-  <h4>Fun fact</h4> 
+  <h4>Fun fact:</h4> 
   <ul>
-    <li>I have dual nationality and have decided to live in at least 5 different countries in 10 years. <img width="16" height="16" src="https://img.icons8.com/emoji/48/spain-emoji.png" alt="spain-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/>
+    <li>I hold dual nationality and have set a goal to live in at least 5 different countries within 10 years. <img width="16" height="16" src="https://img.icons8.com/emoji/48/spain-emoji.png" alt="spain-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/>
  (2/5)⏳<br></li>
   </ul>
   
