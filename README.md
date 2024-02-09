@@ -30,7 +30,7 @@
 <p>
   <h4>Fun fact:</h4> 
   <ul>
-    <li>I hold dual nationality and have set a goal to live in at least 5 different countries within 10 years. <img width="16" height="16" src="https://img.icons8.com/emoji/48/spain-emoji.png" alt="spain-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/>
+    <li>I hold dual nationality and have set a goal to live in at least 5 different countries within 15 years. <img width="16" height="16" src="https://img.icons8.com/emoji/48/spain-emoji.png" alt="spain-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/>
  (2/5)⏳<br></li>
   </ul>
   
