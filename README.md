@@ -30,8 +30,8 @@
 <p>
   <h4>Fun fact:</h4> 
   <ul>
-    <li>I hold dual nationality and have set a goal to live in at least 5 different countries within 15 years. <img width="16" height="16" src="https://img.icons8.com/emoji/48/spain-emoji.png" alt="spain-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/>
- (2/5)⏳<br></li>
+    <li>I hold dual nationality and have set a goal to live in at least 5 different countries within 15 years. <img width="16" height="16" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/spain-emoji.png" alt="spain-emoji"/><img width="16" height="16" src="https://img.icons8.com/emoji/48/germany-emoji.png" alt="germany-emoji"/>
+ (3/5)⏳<br></li>
   </ul>
   
 </p>
@@ -39,7 +39,7 @@
 <ul>
   <li>🌱 Developing a personal IoT project for smart asthma inhalators called 4Breathe</li>
   <li>🌱 Developing and spearheading the implementation of my funded idea, Alice, at Skill Labs.</li>
-  <li>🌱 Improving my Spanish</li>
+  <li>🌱 Improving my German</li>
 </ul>
 <h2>My Tech Stacks</h2>
 <p>
